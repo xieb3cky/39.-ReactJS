@@ -1,0 +1,28 @@
+.VendingMachine img {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Selection {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+
+h1 {
+    font-size: 2.3em;
+}
+
+a {
+    color: rgba(252, 252, 252, 0.836);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
